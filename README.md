@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-Just learning how to create a repository
+This is a test to edit on a branch instead of the master.
+I hope it works.
